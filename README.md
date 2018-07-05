@@ -17,7 +17,7 @@ Play famous "X-Files" sound.
 ## Installing
 Install globally:
 
-    npm install -g xfiles
+    npm install -g xfilescl
 
 ## Running
 Run command:
@@ -26,7 +26,7 @@ Run command:
 
 Or import in NodeJS script:
 
-    import xfiles from 'xfiles';
+    import xfiles from 'xfilescl';
 
     xfiles();
 
