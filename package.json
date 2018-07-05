@@ -1,0 +1,22 @@
+{
+  "name": "xfiles",
+  "version": "1.0.0",
+  "description": "Dan dan dan daaaaaaannnn!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrOrlandi/xfiles.git"
+  },
+  "author": "Bruno Orlandi <brorlandi@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "xfiles": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/BrOrlandi/xfiles/issues"
+  },
+  "homepage": "https://github.com/BrOrlandi/xfiles#readme"
+}
